@@ -1,0 +1,10 @@
+Given an ascending matrix:
+[
+  0, 2, 4, 8
+  3, 7, 9, 10
+  4, 8, 11, 13
+  5, 9, 12, 14
+]
+where the rows are sorted in ascending order and columns are sorted in ascending order, but the rows are not continuous. Given a
+number k. Write a method that tells us whether the value k is in our matrix. Your final solution should be
+O(rows + col)
